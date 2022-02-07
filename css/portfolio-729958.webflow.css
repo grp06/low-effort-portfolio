@@ -1,0 +1,28 @@
+.button {
+  display: block;
+  width: 175px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.button-2 {
+  display: block;
+  width: 175px;
+}
+
+.body {
+  font-family: 'Times New Roman', TimesNewRoman, Times, Baskerville, Georgia, serif;
+}
+
+.text-block {
+  margin-top: 40px;
+}
+
+.text-block-2 {
+  margin-top: 40px;
+}
+
+.text-block-3 {
+  margin-top: 40px;
+}
